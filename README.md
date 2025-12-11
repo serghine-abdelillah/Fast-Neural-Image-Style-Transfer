@@ -1,8 +1,5 @@
 
-
-# DL Mini Project
-
-Fast Neural Style Transfer
+# Fast Neural Style Transfer
 This project implements a Fast Neural Style Transfer model to apply artistic styles to images. The model is trained using PyTorch and can transform any content image into the style of famous artists like Van Gogh or Picasso.
 Project Structure
 
